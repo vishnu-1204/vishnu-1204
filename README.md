@@ -1,11 +1,3 @@
-About Me
-💻 Aspiring Full Stack Developer
-📈 Digital Marketing Enthusiast
-🚀 Passionate about building scalable web applications
-🌐 Interested in Web Development, SEO, and Online Growth Strategies
-📚 Continuously learning new technologies and marketing trends
-🎯 Focused on creating user-friendly and high-performing digital products
-
 # 💫 About Me:
 💻 Aspiring Full Stack Developer<br>📈 Digital Marketing Enthusiast<br>🚀 Passionate about building scalable web applications<br>🌐 Interested in Web Development, SEO, and Online Growth Strategies<br>📚 Continuously learning new technologies and marketing trends<br>🎯 Focused on creating user-friendly and high-performing digital products
 
